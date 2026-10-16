@@ -21,15 +21,15 @@ Minha trajetória em suporte técnico, operações e atividades administrativas 
 
 ## Projetos do portfólio
 
-Os projetos abaixo são estudos com dados fictícios ou fontes públicas. Cada repositório inclui instruções de execução e testes.
+[**Abrir demonstrações online**](https://danielestrela-dev.github.io/relatorio-indicadores-python/) · Os exemplos financeiros usam dados fictícios. A página do IBGE apresenta o fluxo do projeto; ela não consulta a API ao vivo.
 
-| Projeto | Problema e resultado | Tecnologias |
-|---|---|---|
-| [Conciliação financeira](https://github.com/danielestrela-dev/conciliacao-financeira-python) | Cruza títulos e pagamentos, soma recebimentos parciais e aponta divergências para conferência. | Python, CSV, Decimal |
-| [Contas a pagar](https://github.com/danielestrela-dev/contas-a-pagar-python) | Classifica vencimentos e atrasos e consolida despesas em aberto por centro de custo. | Python, datas, CSV, JSON |
-| [Consolidação de planilhas](https://github.com/danielestrela-dev/consolidacao-planilhas-python) | Padroniza bases de vendas, separa dados inválidos e duplicados e organiza uma base para análise. | Python, Pandas, SQLite, Excel |
-| [Relatório de indicadores](https://github.com/danielestrela-dev/relatorio-indicadores-python) | Calcula faturamento e ticket médio e gera relatório Excel e dashboard HTML. | Python, SQL, Pandas, HTML |
-| [Coleta de indicadores do IBGE](https://github.com/danielestrela-dev/coleta-api-indicadores-python) | Mantém histórico do IPCA com validação, atualização de períodos, tentativas de reconexão e logs. | Python, API REST, SQLite |
+| Projeto | Problema e resultado | Tecnologias | Demonstração |
+|---|---|---|---|
+| [Conciliação financeira](https://github.com/danielestrela-dev/conciliacao-financeira-python) | Cruza títulos e pagamentos, soma recebimentos parciais e aponta divergências para conferência. | Python, CSV, Decimal | [Ver exemplo](https://danielestrela-dev.github.io/relatorio-indicadores-python/#conciliacao) |
+| [Contas a pagar](https://github.com/danielestrela-dev/contas-a-pagar-python) | Classifica vencimentos e atrasos e consolida despesas em aberto por centro de custo. | Python, datas, CSV, JSON | [Ver exemplo](https://danielestrela-dev.github.io/relatorio-indicadores-python/#contas) |
+| [Consolidação de planilhas](https://github.com/danielestrela-dev/consolidacao-planilhas-python) | Padroniza bases de vendas, separa dados inválidos e duplicados e organiza uma base para análise. | Python, Pandas, SQLite, Excel | [Ver exemplo](https://danielestrela-dev.github.io/relatorio-indicadores-python/#qualidade) |
+| [Relatório de indicadores](https://github.com/danielestrela-dev/relatorio-indicadores-python) | Calcula faturamento e ticket médio e gera relatório Excel e dashboard HTML. | Python, SQL, Pandas, HTML | [Ver dashboard](https://danielestrela-dev.github.io/relatorio-indicadores-python/#relatorio) |
+| [Coleta de indicadores do IBGE](https://github.com/danielestrela-dev/coleta-api-indicadores-python) | Mantém histórico do IPCA com validação, atualização de períodos, tentativas de reconexão e logs. | Python, API REST, SQLite | [Ver fluxo](https://danielestrela-dev.github.io/relatorio-indicadores-python/#ibge) |
 
 ## Objetivo profissional
 
