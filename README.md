@@ -1,6 +1,6 @@
 # Olá, eu sou Daniel Estrela
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Python, SQL e Análise de Dados**
+**Engenharia de Dados em formação | Python • SQL • ETL • Qualidade de Dados • Automação**
 
 Sou estudante do **3º semestre de Análise e Desenvolvimento de Sistemas na Universidade Católica do Salvador (UCSal)**, com previsão de conclusão em **dezembro de 2027**. Busco uma oportunidade de **estágio em Dados, Análise de Dados ou Business Intelligence (BI)**, em Salvador ou em formato remoto.
 
